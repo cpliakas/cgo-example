@@ -16,7 +16,7 @@ go get github.com/cpliakas/cgo-example
 
 Run `cgo-example` on the command line, and it should return `Hello, world!`.
 
-## Hoe Does It Work?
+## How Does It Work?
 
 **TODO**
 
