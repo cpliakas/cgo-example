@@ -1,6 +1,6 @@
 package main
 
-func ExampleHelloWorld() {
+func Example_helloWorld() {
 	helloWorld()
 	// Output: Hello, world!
 }
