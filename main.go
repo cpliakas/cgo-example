@@ -1,7 +1,5 @@
 package main
 
-// #cgo CFLAGS: -Iinclude
-// #cgo LDFLAGS: -Llib -lHelloWorld
 // #include "HelloWorld.h"
 import "C"
 
