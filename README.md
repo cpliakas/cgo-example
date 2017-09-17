@@ -1,6 +1,6 @@
 # CGO Example
 
-[![Build Status](https://travis-ci.org/cpliakas/cgo-example?branch=master)](https://travis-ci.org/cpliakas/cgo-example)
+[![Build Status](https://travis-ci.org/cpliakas/cgo-example.svg?branch=master)](https://travis-ci.org/cpliakas/cgo-example)
 
 A simple CGO application that prints "Hello, world!" in Go reading the data
 from a library in C.
